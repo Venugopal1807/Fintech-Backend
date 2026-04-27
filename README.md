@@ -1,4 +1,4 @@
-# Zorvyn FinTech Backend
+# FinTech Backend
 
 A rigorous and secure backend system for financial data processing, access control, and dashboard aggregations.
 
