@@ -35,7 +35,7 @@ npm install
 Reference `.env.example` or create a `.env` file at the root:
 ```env
 # Database Credentials
-DATABASE_URL="postgresql://<user>:<password>@<host>/<database>"
+DATABASE_URL="postgresql://<user>:<password>@<host>.neon.tech/<database>?sslmode=require"
 
 # Security
 JWT_SECRET="super_secret_minimum_32_characters_key"
